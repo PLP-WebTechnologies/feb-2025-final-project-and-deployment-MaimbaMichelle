@@ -28,7 +28,7 @@ Good luck and happy coding! 🚀💻
 A responsive and interactive blog website built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
-[View Site Here](#) <!-- Replace with your actual deployed link -->
+[view site here]( https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-MaimbaMichelle/)
 
 ## 🛠 Features
 - Responsive design for all screen sizes
